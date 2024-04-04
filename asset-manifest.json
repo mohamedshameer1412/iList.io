@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/iList.io/static/css/main.36ccb835.chunk.css",
+    "main.js": "/iList.io/static/js/main.2d45894b.chunk.js",
+    "main.js.map": "/iList.io/static/js/main.2d45894b.chunk.js.map",
+    "runtime~main.js": "/iList.io/static/js/runtime~main.76251c47.js",
+    "runtime~main.js.map": "/iList.io/static/js/runtime~main.76251c47.js.map",
+    "static/js/2.a2b181a3.chunk.js": "/iList.io/static/js/2.a2b181a3.chunk.js",
+    "static/js/2.a2b181a3.chunk.js.map": "/iList.io/static/js/2.a2b181a3.chunk.js.map",
+    "static/js/3.940f5f6f.chunk.js": "/iList.io/static/js/3.940f5f6f.chunk.js",
+    "static/js/3.940f5f6f.chunk.js.map": "/iList.io/static/js/3.940f5f6f.chunk.js.map",
+    "index.html": "/iList.io/index.html",
+    "precache-manifest.bf88c8e98c0333714358ea999cdda16b.js": "/iList.io/precache-manifest.bf88c8e98c0333714358ea999cdda16b.js",
+    "service-worker.js": "/iList.io/service-worker.js",
+    "static/css/main.36ccb835.chunk.css.map": "/iList.io/static/css/main.36ccb835.chunk.css.map"
+  }
+}
